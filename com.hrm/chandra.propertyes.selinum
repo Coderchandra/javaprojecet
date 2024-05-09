@@ -1,0 +1,4 @@
+Browser:Chrome
+urlname:Admi:
+password:admin123
+ChromeDriver:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
